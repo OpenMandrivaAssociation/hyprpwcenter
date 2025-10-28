@@ -26,3 +26,4 @@ A GUI Pipewire control center
 
 %files
 %{_bindir}/%{name}
+%{_datadir}/applications/%{name}.desktop
