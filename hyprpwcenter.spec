@@ -1,6 +1,6 @@
 Name:		hyprpwcenter
 Version:	0.1.1
-Release:	2
+Release:	3
 Source0:	https://github.com/hyprwm/hyprpwcenter/archive/v%{version}/%{name}-v%{version}.tar.gz
 Summary:	A GUI Pipewire control center
 URL:		https://github.com/hyprwm/hyprpwcenter
